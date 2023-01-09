@@ -4,7 +4,7 @@
 
 どうぞよろしくお願いします
 
-- 🔭 I’m currently working on 新潟の中小企業に働いています
+- 🔭 I’m currently working on カーネルランド
 - 🌱 I’m currently learning 韓国語
 
 ![ekdms95's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdms95&show_icons=true&theme=tokyonight)
