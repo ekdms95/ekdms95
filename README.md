@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![ekdms95's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdms95&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdms95&layout=compact&theme=tokyonight)
+
+### Yea, I know I m fuckin C++ developer.
