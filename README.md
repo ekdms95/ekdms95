@@ -1,8 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdms95&layout=compact&theme=tokyonight)
 
-###ちなみに僕は16歳新潟に住んでいるごみコーダなんです
-
-Here are some ideas to get you started:
+ちなみに僕は16歳新潟に住んでいるごみコーダなんです
 
 - 🔭 I’m currently working on 新潟の中小企業に働いています
 - 🌱 I’m currently learning 韓国語
