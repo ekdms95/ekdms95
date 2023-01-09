@@ -1,4 +1,4 @@
-### ### Yea, I know I m fuckin C++ developer. 👋
+### Yea, I know I m fuckin C++ developer. 👋
 
 Here are some ideas to get you started:
 
