@@ -1,6 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdms95&layout=compact&theme=tokyonight)
 
-ちなみに僕は16歳新潟に住んでいるごみコーダなんです
+年俸一千万と社長にタメ口のできる会社を探してます
+どうぞよろしくお願いします
 
 - 🔭 I’m currently working on 新潟の中小企業に働いています
 - 🌱 I’m currently learning 韓国語
