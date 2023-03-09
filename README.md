@@ -4,7 +4,7 @@
 
 どうぞよろしくお願いします
 
-- 🔭 I’m currently working on カーネルランド
+- 🔭 I’m currently working on カーネルランド,プライベートプロゼット
 - 🌱 I’m currently learning 韓国語
 
 ![ekdms95's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdms95&show_icons=true&theme=tokyonight)
